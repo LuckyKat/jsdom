@@ -44,14 +44,6 @@
     "ws": "^8.13.0",
     "xml-name-validator": "^4.0.0"
   },
-  "peerDependencies": {
-    "canvas": "^2.5.0"
-  },
-  "peerDependenciesMeta": {
-    "canvas": {
-      "optional": true
-    }
-  },
   "devDependencies": {
     "@domenic/eslint-config": "^3.0.0",
     "benchmark": "^2.1.4",
